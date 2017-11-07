@@ -1,7 +1,7 @@
 timezone:    America/Detroit
 future:      false
 # Set baseurl to the base path of the site eg "/mytalk"
-baseurl:     ""
+baseurl:     "/terraform-demo"
 # The allowed values are 'rouge', 'pygments' or null.
 highlighter: rouge
 # markdown - Valid options are [ maruku | rdiscount | kramdown | redcarpet ]
@@ -111,5 +111,3 @@ exclude: [
   "reveal.js/LICENSE",
   "reveal.js/package.json"
 ]
-
-theme: jekyll-theme-minimal
