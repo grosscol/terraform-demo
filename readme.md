@@ -1,9 +1,7 @@
-# Ruby Templating Demo
+# Devops Terraform Intro
 
 ## Description
-Short demo presentation for Ann Arbor Ruby Brigade 2017-08-29.
+Short presentation for Lansing Devops Group
 
 ## Use
-Use arrows to advance slides at (grosscol.github.io/erb-demo)
-
-Alternatively, run jekyll locally
+Use arrows to advance slides at (grosscol.github.io/terraform-demo)
